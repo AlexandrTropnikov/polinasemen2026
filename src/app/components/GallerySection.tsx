@@ -24,7 +24,7 @@ const photos = [
     alt: "Романтический момент"
   },
   {
-    url: "/images/6.jpg",
+    url: "/images/24.jpg",
     alt: "Танец пары"
   }
 ];
