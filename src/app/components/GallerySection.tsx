@@ -4,23 +4,23 @@ import { X } from "lucide-react";
 
 const photos = [
   {
-    url: "/images/1.jpg",
+    url: "/images/21.jpg",
     alt: "Невеста в белом платье"
   },
   {
-    url: "/images/2.jpg",
+    url: "/images/4.jpg",
     alt: "Жених и невеста"
   },
   {
-    url: "/images/3.jpg",
+    url: "/images/22.jpg",
     alt: "Пара на природе"
   },
   {
-    url: "/images/4.jpg",
+    url: "/images/23.jpg",
     alt: "Поцелуй молодоженов"
   },
   {
-    url: "/images/5.jpg",
+    url: "/images/3.jpg",
     alt: "Романтический момент"
   },
   {
